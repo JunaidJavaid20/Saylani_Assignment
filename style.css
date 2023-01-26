@@ -195,6 +195,41 @@ li{
 }
 .message{
     height: 470%;
-    background-color: #EEEEEE;
+    
 }
+.main-slider{
+    background-color: rgb(192, 188, 188);
+    padding-top: 50px;
+    width: 90%;
+    margin: 10px auto;
+    height: 500px;
+}
+.imgone{
+     border-radius: 50%;
+}
+.arshad{
+    text-align: center;
+    padding-top: 20px;
+}
+.previous{
+    background-color: #f1f1f1;
+    color: black;
+}
+.next{
+    background-color: #04AA6D;
+    color: white;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+a:hover{
+    background-color: #ddd;
+    color: black;
+}
+.round {
+    border-radius: 50%;
+}
+
 
